@@ -1,0 +1,13 @@
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+eslintcache
+*.tgz
+.env
+.env.test
+.vscode/
+.vs
+/dist
+
